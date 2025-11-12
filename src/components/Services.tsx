@@ -66,7 +66,7 @@ const features = [
 export default function DemoOne() {
   return (
     <section id="services" className="py-16 md:py-32 bg-neutral-950 text-white">
-      <div className="mx-auto min-w-3xl space-y-8 px-14">
+      <div className="mx-auto min-w-3xl space-y-8 px-5 sm:px-14 ">
         
         {/* Heading */}
         <AnimatedContainer className="mx-auto max-w-3xl text-center">

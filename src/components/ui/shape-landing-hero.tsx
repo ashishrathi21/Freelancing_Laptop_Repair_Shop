@@ -104,7 +104,7 @@ function HeroGeometric({
       <div className="absolute inset-0 bg-gradient-to-br from-indigo-500/[0.05] via-transparent to-rose-500/[0.05] blur-3xl" />
 
       {/* Animated Shapes (responsive positioning) */}
-      <div className="absolute inset-0 overflow-hidden">
+      <div className="absolute inset-0 overflow-hidden ">
         <ElegantShape
           delay={0.3}
           width={500}
@@ -136,7 +136,7 @@ function HeroGeometric({
       {/* ✅ Responsive Images */}
       <img
         src={setting}
-        className="h-[120px] sm:h-[180px] md:h-[230px] xl:h-[260px] absolute z-20 top-[12%] left-[8%] sm:left-[12%] pl-[70px]"
+        className="h-[120px] sm:h-[180px] md:h-[230px] xl:h-[260px] absolute z-20 top-[12%] left-[8%] sm:left-[12%] pl-[90px]"
         alt=""
       />
 

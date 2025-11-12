@@ -39,7 +39,7 @@ export default function Contact() {
 
         {/* CONTACT DETAILS */}
         {/* CONTACT DETAILS */}
-<div className="flex flex-wrap gap-10 text-white mt-10 justify-start sm:justify-center">
+<div className="flex flex-wrap gap-10 text-white mt-10 justify-start sm:justify-center ">
 
   {[
     { icon: Phone, label: "Phone", value: "+1 (234) 567-890", color: "text-blue-400" },
